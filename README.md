@@ -1,4 +1,4 @@
-# Posible interactive dashboards 
+# Startup KPIs Interactive Dashboards
 
 Using fake data in these examples of course, for a SaaS (Software as a Service) Company-Startup looking for investors. Here using #lookerstudio.
 
